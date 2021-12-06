@@ -1,2 +1,2 @@
 # NetCoreRabbitMQ
-Basic hello work with send and receive console apps
+Basic hello world with send and receive console apps
